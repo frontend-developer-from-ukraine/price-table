@@ -1,0 +1,14 @@
+@import "price-table.scss";
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "Montserrat", sans-serif;
+}
+
+.page {
+    background: #141b1c;
+    display: flex;
+    justify-content: center;
+}
