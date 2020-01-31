@@ -31,7 +31,6 @@
   font-size: 20px;
   line-height: 24px;
   text-align: center;
-  color: #ffffff;
   display: block;
   font-weight: normal;
 }
@@ -44,7 +43,6 @@
   font-size: 55px;
   line-height: 67px;
   text-align: center;
-  color: #ffffff;
 }
 .offer__price_blue {
   background-color: #3a6ba5;
@@ -58,7 +56,6 @@
   font-weight: bold;
   font-size: 14px;
   line-height: 25px;
-  color: #ffffff;
   text-align: center;
   text-transform: uppercase;
   background-color: #dc3f45;
@@ -75,7 +72,6 @@
   font-size: 15px;
   line-height: 18px;
   text-align: center;
-  color: #ffffff;
 }
 .offer__options-list {
   margin: 0;
@@ -102,7 +98,6 @@
   font-weight: 300;
   font-size: 15px;
   line-height: 18px;
-  color: #ffffff;
 }
 .offer__order-btn {
   display: inline-block;
@@ -117,7 +112,6 @@
   font-size: 14px;
   line-height: 17px;
   text-align: center;
-  color: #ffffff;
   border: none;
 }
 .offer__order-btn_blue {
